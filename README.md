@@ -1,4 +1,6 @@
 # Build scan quickstart
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsivaswami%2Ffossatest.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsivaswami%2Ffossatest?ref=badge_shield)
+
 
 <img src="http://bit.ly/2JSSCT0" align="right" width="280" />
 
@@ -51,3 +53,7 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [instructions]: https://scans.gradle.com/
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
 [manual]: https://docs.gradle.com/build-scan-plugin/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsivaswami%2Ffossatest.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsivaswami%2Ffossatest?ref=badge_large)
